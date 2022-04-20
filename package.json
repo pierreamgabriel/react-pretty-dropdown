@@ -1,6 +1,6 @@
 {
   "name": "react-pretty-dropdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Customizable dropdown menu for React.",
   "main": "dist/Dropdown.js",
   "repository": {
@@ -17,7 +17,7 @@
     "name": "Pierre Macedo",
     "email": "pierremacedodev@gmail.com"
   },
-  "license": "GNU General Public License v3.0",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/pierremacedo/react-pretty-dropdown/issues"
   },
