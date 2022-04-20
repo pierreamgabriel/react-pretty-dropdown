@@ -27,7 +27,7 @@ import Dropdown from 'react-pretty-dropdown';
 </Dropdown>
 ```
 
-### Props
+## Props
 
 **background** - Background color.<br/>
 **textColor** - Text color.<br/>
