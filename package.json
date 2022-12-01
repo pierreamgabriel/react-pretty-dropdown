@@ -1,11 +1,11 @@
 {
   "name": "react-pretty-dropdown",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Customizable dropdown menu for React.",
   "main": "dist/Dropdown.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pierremacedo/react-pretty-dropdown"
+    "url": "https://github.com/pierreamgabriel/react-pretty-dropdown"
   },
   "keywords": [
     "React",
@@ -14,14 +14,14 @@
     "react dropdown"
   ],
   "author": {
-    "name": "Pierre Macedo",
-    "email": "pierremacedodev@gmail.com"
+    "name": "Pierre Gabriel",
+    "email": "pierregabrieldev@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pierremacedo/react-pretty-dropdown/issues"
+    "url": "https://github.com/pierreamgabriel/react-pretty-dropdown/issues"
   },
-  "homepage": "https://github.com/pierremacedo/react-pretty-dropdown",
+  "homepage": "https://github.com/pierreamgabriel/react-pretty-dropdown",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-solid-svg-icons": "^6.1.1",
