@@ -1,8 +1,8 @@
 {
   "name": "react-pretty-dropdown",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Customizable dropdown menu for React.",
-  "main": "dist/Dropdown.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/pierreamgabriel/react-pretty-dropdown"
