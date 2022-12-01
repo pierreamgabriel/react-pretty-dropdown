@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEllipsisVertical, faEllipsis, faBars, faCaretDown } from '@fortawesome/free-solid-svg-icons';
 import './Dropdown.css';
 
-export default function Dropdown(props) {
+export function Dropdown(props) {
 
     const [active, setActive] = React.useState({ status: false, id: "" });
 

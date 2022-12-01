@@ -1,6 +1,6 @@
 {
   "name": "react-pretty-dropdown",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Customizable dropdown menu for React.",
   "main": "dist/Dropdown.js",
   "repository": {
@@ -27,7 +27,8 @@
     "@fortawesome/free-solid-svg-icons": "^6.1.1",
     "@fortawesome/react-fontawesome": "^0.1.18",
     "@popperjs/core": "^2.11.5",
-    "bootstrap": "^5.1.3"
+    "bootstrap": "^5.1.3",
+    "typescript": "^4.9.3"
   },
   "babel": {
     "presets": [
