@@ -3,7 +3,11 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
+<<<<<<< HEAD
 exports.Dropdown = Dropdown;
+=======
+exports["default"] = Dropdown;
+>>>>>>> parent of 06de896 (build ts)
 
 var _react = _interopRequireDefault(require("react"));
 
