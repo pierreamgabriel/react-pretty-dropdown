@@ -1,6 +1,6 @@
 {
   "name": "react-pretty-dropdown",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Customizable dropdown menu for React.",
   "main": "dist/Dropdown.js",
   "files": [

@@ -96,7 +96,7 @@ function Dropdown(props) {
   };
 
   return /*#__PURE__*/_react["default"].createElement("div", {
-    className: "dropdown react-pretty-dropdown"
+    className: "dropdown react-pretty-dropdown react-pretty-dropdown-container"
   }, /*#__PURE__*/_react["default"].createElement("button", {
     className: "btn btn-secondary react-pretty-dropdown-button ".concat(!props.buttonFloat ? "" : props.buttonFloat),
     type: "button",

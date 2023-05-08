@@ -61,7 +61,7 @@ export default function Dropdown(props) {
     }
 
     return (
-        <div className="dropdown react-pretty-dropdown">
+        <div className="dropdown react-pretty-dropdown react-pretty-dropdown-container">
             <button className={`btn btn-secondary react-pretty-dropdown-button ${!props.buttonFloat ? "" : props.buttonFloat}`}
                 type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false"
                 style={{

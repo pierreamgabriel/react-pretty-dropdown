@@ -9,7 +9,7 @@
     --button-focus-border: none;
     --menu-position: 35px;
 }
-.react-pretty-dropdown {
+.react-pretty-dropdown-container {
     width: var(--dropdown-width);
 }
 .react-pretty-dropdown-list {
